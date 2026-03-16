@@ -2,4 +2,8 @@ fastapi
 uvicorn
 sqlalchemy
 pydantic
+<<<<<<< HEAD
 geopy
+=======
+geopy
+>>>>>>> e3cc9e5a1f8bebbaa2ceeeabc75402841d9dfd58
